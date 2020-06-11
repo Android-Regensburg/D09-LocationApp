@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location App</string>
+    <string name="features_label">Verfügbare Funktionen</string>
+    <string name="feature_position_tracking">Positionsbestimmung</string>
+    <string name="feature_geocoding">Geo-Coding</string>
+    <string name="position_label">Ihre aktuelle Postion</string>
+    <string name="placeholder">Keine Positionsdaten verfügbar</string>
+</resources>
